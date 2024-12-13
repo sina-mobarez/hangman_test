@@ -2,11 +2,6 @@ import pytest
 from hangman.game import HangmanGame, GuessWord
 from hangman.exceptions import *
 
-this is my change in local 
-also this is
-
-
-and this is mine
 
 
 def test_select_random_word_with_one_word():
